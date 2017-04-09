@@ -12,8 +12,8 @@
 **Code**
 
     <div>
-		<h1>Some  code snippet</h1>
-		<p>with markdown<p>
+	<h1>Some text</h1>
+	<p>Another text<p>
     </div
 
 
