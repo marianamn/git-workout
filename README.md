@@ -12,8 +12,8 @@
 **Code**
 
     <div>
-	<h1>Some text</h1>
-	<p>Another text<p>
+		<h1>Some text</h1>
+		<p>Another text<p>
     </div
 
 
@@ -22,6 +22,13 @@
 | col 1 | col 2| col 3| 
 | ----- |----- |----- |
 | val 1 | val 2| val 3|  
+
+
+**Some math** 
+
+```math  
+a^2+b^2=c^2
+``` 
 
 
 
